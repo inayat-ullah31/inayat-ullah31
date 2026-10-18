@@ -37,4 +37,15 @@
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, sharing knowledge, and connecting with fellow developers.
+<p align="left">
+  <a href="https://www.linkedin.com/in/inayat-ullah-168388393/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:inayatullah127@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>I'm always interested in learning, sharing knowledge, and connecting with fellow developers.</p>
+
+
