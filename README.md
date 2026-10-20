@@ -18,6 +18,23 @@
 - 🎯 My goal is to combine strong software engineering skills with AI knowledge to build useful, real-world projects.
 
 ---
+## 🚀 Featured Projects
+
+### 🏦 Banking Management System in C++
+
+A console-based banking application developed to practice C++ programming and object-oriented concepts.
+
+**Features:**
+- Account creation and login
+- Deposit and withdrawal operations
+- Balance inquiry and account details
+- Input validation and limited login attempts
+
+**Technologies:** C++, Standard Library, Windows Console API
+
+🔗 [View Project on GitHub](https://github.com/inayat-ullah31/Banking-Management-System)
+
+---
 
 ## 🛠️ Languages & Tools
 
